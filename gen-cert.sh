@@ -32,6 +32,7 @@ subjectAltName = @alt_names
 
 [alt_names]
 DNS.1 = ${DOMAIN_NAME}
+DNS.2 = *.${DOMAIN_NAME}
 EOF
 
 
